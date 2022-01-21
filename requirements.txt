@@ -11,7 +11,7 @@ hmmlearn==0.2.1
 html5lib==0.999
 idna==2.6
 ipykernel==4.5.2
-ipython==5.3.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 ipywidgets==6.0.0
 Jinja2==2.9.5
